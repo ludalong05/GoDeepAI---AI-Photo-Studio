@@ -38,19 +38,40 @@ GoDeepAI is an AI-powered photo editing tool that transforms your photos into pr
 ## 📷 Examples
 
 ### Professional Headshot
-<p align="center">
-  <img src="images/example-headshot.png" alt="Professional Headshot Example" width="600">
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Before</strong></td>
+    <td align="center"><strong>After</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/headshot-before.png" alt="Before" width="300"></td>
+    <td><img src="images/headshot-after.png" alt="After" width="300"></td>
+  </tr>
+</table>
 
 ### Studio Portrait
-<p align="center">
-  <img src="images/example-portrait.png" alt="Studio Portrait Example" width="600">
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Before</strong></td>
+    <td align="center"><strong>After</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/portrait-before.png" alt="Before" width="300"></td>
+    <td><img src="images/portrait-after.png" alt="After" width="300"></td>
+  </tr>
+</table>
 
 ### Cartoon Avatar
-<p align="center">
-  <img src="images/example-cartoon.png" alt="Cartoon Avatar Example" width="600">
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Before</strong></td>
+    <td align="center"><strong>After</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/cartoon-before.png" alt="Before" width="300"></td>
+    <td><img src="images/cartoon-after.png" alt="After" width="300"></td>
+  </tr>
+</table>
 
 ## 🚀 Try It Now
 

@@ -36,14 +36,14 @@ Turn your selfie into a professional ID photo with one click.
 
 ## Pricing
 
-| Plan | Price | Credits |
-|------|-------|---------|
-| Free | $0 | 5 credits |
-| Basic | $3 | 10 credits |
-| Standard | $5 | 20 credits |
-| Premium | $10 | 50 credits |
+| Plan | Price | What you get |
+|------|-------|--------------|
+| Free | $0 | 5 professional photos |
+| Basic | $3 | 10 photos ($0.30 each) |
+| Standard | $5 | 20 photos ($0.25 each) |
+| Premium | $10 | 50 photos ($0.20 each) |
 
-**Sign up and get 5 free credits!**
+**Sign up and get 5 free photos!**
 
 ---
 

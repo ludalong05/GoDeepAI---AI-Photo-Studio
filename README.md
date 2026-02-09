@@ -68,8 +68,8 @@ GoDeepAI is an AI-powered photo editing tool that transforms your photos into pr
     <td align="center"><strong>After</strong></td>
   </tr>
   <tr>
-    <td><img src="input1.png" alt="Before" width="300"></td>
-    <td><img src="output1.png" alt="After" width="300"></td>
+    <td><img src="input2.png" alt="Before" width="300"></td>
+    <td><img src="output2.png" alt="After" width="300"></td>
   </tr>
 </table>
 

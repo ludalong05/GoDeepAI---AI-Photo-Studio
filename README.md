@@ -1,7 +1,7 @@
 # 🎨 GoDeepAI - AI Photo Studio
 
 <p align="center">
-  <img src="godeepai_banner.png" alt="GoDeepAI Banner" width="800">
+  <img src="godeepai_banner.png" alt="GoDeepAI Banner" width="400">
 </p>
 
 <p align="center">
